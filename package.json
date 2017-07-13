@@ -1,0 +1,23 @@
+{
+  "name": "xss-presentation",
+  "version": "1.0.0",
+  "description": "Presentation about XSS vulnerabilities (GERMAN)",
+  "main": "asciidoctor-reveal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avalax/xss-presentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avalax/xss-presentation/issues"
+  },
+  "homepage": "https://github.com/avalax/xss-presentation#readme",
+  "dependencies": {
+    "asciidoctor-reveal.js": "^1.0.2",
+    "asciidoctor.js": "^1.5.5-3"
+  }
+}

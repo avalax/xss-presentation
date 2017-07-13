@@ -1,0 +1,47 @@
+= Cross Site Scripting (XSS)
+:revealjs_controls: false
+:revealjs_slideNumber: false
+:backend: revealjs
+
+== 1. Teil Theorie
+
+== Security Lab und Juice Shop
+* Lena
+
+== reflected XSS attack
+[source,javascript]
+----
+<script>alert("XSS1")</script>
+----
+* Forms
+* Url parsing
+
+== persisted XSS attack
+[source,javascript]
+----
+<script>alert("XSS1")</script>
+----
+* Database
+* "external Scripts"
+
+== Social Engineering
+* Lena
+
+== Xenotics Framework
+* Screenshot
+
+== Beef unter Kali Linux
+* Lena
+
+== 2. Teil Praxis
+
+== Google Tag Manager
+* Demo
+
+== Xenotics Framework
+* Send Message
+* Keylogger credentials (und anderes?)
+* Social Engineering: Kamera aktivieren und Live-Webcam
+* Screenshot machen
+* Phisher: auf andere Website weiterleiten
+* Persistent Browser Keylogger "Update installieren"
