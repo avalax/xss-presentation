@@ -6,7 +6,9 @@
 == 1. Teil Theorie
 
 == Security Lab und Juice Shop
-* Lena
+* Saftladen: Onlineshop mit diversen Sicherheitslücken
+* OWASP Top Ten der Sicherheitsprobleme
+* Ganz oben: Cross-Site-Scripting
 
 == reflected XSS attack
 [source,javascript]
@@ -25,7 +27,8 @@
 * "external Scripts"
 
 == Social Engineering
-* Lena
+* Aktives Zustimmen der User ermöglicht den Angriff
+* Skriptblocker
 
 == Xenotics Framework
 * Screenshot
