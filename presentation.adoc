@@ -6,6 +6,7 @@
 == 1. Teil Theorie
 
 == Security Lab und Juice Shop
+image::JuiceShopLogo.png[background, size=0.6]
 * Saftladen: Onlineshop mit diversen Sicherheitslücken
 * OWASP Top Ten der Sicherheitsprobleme
 * Ganz oben: Cross-Site-Scripting
