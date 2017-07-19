@@ -4,11 +4,9 @@
 ---
 
 ## Security Lab und Juice Shop
-![cat](img/owasp_juice_shop.png)
-* "Saftladen" mit diversen Sicherheitslücken
+![juice shop](img/owasp_juice_shop.png)
 
-Quelle: http://bkimminich.github.io/juice-shop/#/
-
+<small>Quelle: http://bkimminich.github.io/juice-shop/#/</small>
 
 ---
 
@@ -31,20 +29,17 @@ Quelle: http://bkimminich.github.io/juice-shop/#/
 ---
 
 ## reflected XSS attack
-```javascript
-<script>alert("XSS1")</script>
-```
-* Forms
-* Url parsing
+![reflected_xss](img/reflected_xss.png)
+
+Demo: https://tinyurl.com/y8gt8rw7
 
 ---
 
 ## persisted XSS attack
-```javascript
-<script>alert("XSS2")</script>
-```
-* Database
-* "external Scripts"
+![persisted_xss](img/persisted_xss.png)
+
+* Über externe Scripte (z.B. Google Tag Manager)
+* Datenbank (z.B. Feedback Formular)
 
 ---
 
@@ -52,17 +47,17 @@ Quelle: http://bkimminich.github.io/juice-shop/#/
 * Kali Linux: Penetration Testing Distribution
 * BeEF Project: Browser Exploitation
 
-![cat](img/beef.png)
-![cat](img/beef_panel.png)
+![beef](img/beef.png)
+![beef panel](img/beef_panel.png)
 
-Quelle: picateshackz.com, funinformatique.com 
+<small>Quelle: https://picateshackz.com, https://funinformatique.com</small>
 
 ---
 
 ## Xenotics Framework
-![cat](img/Xenotix.jpg)
+![Xenotix](img/Xenotix.jpg)
 
-Quelle: https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework
+<small>Quelle: http://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework</small>
 
 ---
 
@@ -91,7 +86,8 @@ Quelle: https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework
 ---
 
 ## Fazit
-* Vielfältige Angriffe sind möglich
-* Sicherheit in der Webentwicklung
-* Vertraue keinen externen Scripten
-* Script block notwendig => Whitelist
+
+* Cross-site Scripting ist böse :-)
+* Webseiten müssen vor XSS geschützt werden
+* Als Betreiber vertraue keinen externen Scripten
+* Als Nutzer am besten Scriptblocker verwenden
