@@ -48,13 +48,6 @@ Quelle: http://bkimminich.github.io/juice-shop/#/
 
 ---
 
-## Xenotics Framework
-![cat](img/Xenotix.jpg)
-
-Quelle: https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework
-
----
-
 ## Beef Framework
 * Kali Linux: Penetration Testing Distribution
 * BeEF Project: Browser Exploitation
@@ -67,15 +60,27 @@ Quelle: picateshackz.com, funinformatique.com
 ---
 
 ## Xenotics Framework
-* Send Message
-* Keylogger credentials
-* Phisher: auf andere Website weiterleiten
-* Screenshot machen
+![cat](img/Xenotix.jpg)
 
-
+Quelle: https://www.owasp.org/index.php/OWASP_Xenotix_XSS_Exploit_Framework
 
 ---
 
+<iframe src="http://www.youtube.com/embed/HnhLMYjOOtQ?version=3&loop=1&playlist=HnhLMYjOOtQ" allowfullscreen="" frameborder="0" height="480" width="853"></iframe>
+
+---
+
+<iframe src="http://www.youtube.com/embed/eGOQqnfMdmI?version=3&loop=1&playlist=eGOQqnfMdmI" allowfullscreen="" frameborder="0" height="480" width="853"></iframe>
+
+---
+
+<iframe src="http://www.youtube.com/embed/RvYjfavvf2E?version=3&loop=1&playlist=RvYjfavvf2E" allowfullscreen="" frameborder="0" height="480" width="853"></iframe>
+
+---
+
+<iframe src="http://www.youtube.com/embed/qqv4887uWBk?version=3&loop=1&playlist=qqv4887uWBk" allowfullscreen="" frameborder="0" height="480" width="853"></iframe>
+
+---
 
 ## Social Engineering
 * nicht-technische Seite häufig nötig
@@ -83,9 +88,7 @@ Quelle: picateshackz.com, funinformatique.com
 * Aktives Zustimmen ermöglicht den Angriff
 * z.B. Kamera aktivieren, Persistent Browser Keylogger "Update installieren"
 
-
 ---
-
 
 ## Fazit
 * Vielfältige Angriffe sind möglich
