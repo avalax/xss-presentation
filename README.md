@@ -91,3 +91,5 @@ Demo: https://tinyurl.com/y8gt8rw7
 * Webseiten müssen vor XSS geschützt werden
 * Als Betreiber vertraue keinen externen Scripten
 * Als Nutzer am besten Scriptblocker verwenden
+
+<small>Quelle: https://tinyurl.com/yd59aypx</small>
