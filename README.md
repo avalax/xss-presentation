@@ -3,18 +3,30 @@
 
 ---
 
-## 1. Teil
+## Security Lab und Juice Shop
+![cat](img/owasp_juice_shop.png)
+* "Saftladen" mit diversen Sicherheitslücken
+
+Quelle: http://bkimminich.github.io/juice-shop/#/
+
 
 ---
 
-## Security Lab und Juice Shop
-![cat](img/JuiceShopLogo.png)
-* Saftladen mit Sicherheitslücken
-* OWASP: Open Web Application Security Project
-* Top Ten der Sicherheitsprobleme
-* Ganz oben: Cross-Site-Scripting
+## OWASP
 
-Quelle: https://github.com/bkimminich/juice-shop
+* Open Web Application Security Project
+* Top Ten der Sicherheitsprobleme
+* Ganz oben: XSS
+
+---
+
+
+## XSS
+
+* Webserver Schadcode platzieren
+* Zugriff der User über Browser
+* Ungefilterte Inhalte werden von Webserver weitergreicht
+* Skripte werden ausgeführt
 
 ---
 
@@ -60,10 +72,6 @@ Quelle: picateshackz.com, funinformatique.com
 
 ---
 
-## 2. Teil
-
----
-
 ## Xenotics Framework
 * Send Message
 * Keylogger credentials (und anderes?)
@@ -76,5 +84,6 @@ Quelle: picateshackz.com, funinformatique.com
 
 ## Fazit
 * Vielfältige Angriffe sind möglich
+* Sicherheit in der Webentwicklung
 * Vertraue keinen externen Scripten
 * Script block notwendig => Whitelist
