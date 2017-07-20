@@ -21,17 +21,19 @@
 
 ## XSS
 
-* Webserver Schadcode platzieren
+* Auf Webserver Schadcode platzieren
 * Zugriff der User über Browser
-* Ungefilterte Inhalte werden von Webserver weitergreicht
+* Ungefilterte Inhalte werden vom Webserver weitergereicht
 * Skripte werden ausgeführt
+
+<small>Quelle: Eckert, Claudia (2014): IT-Sicherheit. De Gruyter-Oldenbourg, München.</small>
 
 ---
 
 ## reflected XSS attack
 ![reflected_xss](img/reflected_xss.png)
 
-Demo: https://tinyurl.com/y8gt8rw7
+<small>Demo: https://tinyurl.com/y8gt8rw7</small>
 
 ---
 
@@ -78,10 +80,12 @@ Demo: https://tinyurl.com/y8gt8rw7
 ---
 
 ## Social Engineering
-* nicht-technische Seite häufig nötig
+* Nicht-technische Seite häufig nötig
 * User werden manipuliert über falsche Informationen
 * Aktives Zustimmen ermöglicht den Angriff
 * z.B. Kamera aktivieren, Persistent Browser Keylogger "Update installieren"
+
+<small>Quelle: Eckert, Claudia (2014): IT-Sicherheit. De Gruyter-Oldenbourg, München.</small>
 
 ---
 
